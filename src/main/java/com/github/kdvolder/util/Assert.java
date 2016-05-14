@@ -8,4 +8,10 @@ public class Assert {
 		}
 	}
 
+	public static void isLegalState(boolean test) {
+		if (!test) {
+			throw new IllegalStateException();
+		}
+	}
+
 }
