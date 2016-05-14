@@ -18,3 +18,6 @@ openssl enc -aes-256-cbc -pass pass:${ENCRYPTION_KEY} -in gpg_private_key.asc -o
 # remove unencrypted secret data
 rm -f *key.asc
 
+echo "!!!GPG Key installed!!!"
+gpg --list-keys
+
