@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.kdvolder</groupId>
 	<artifactId>misc-util</artifactId>
-	<version>0.0.1-M1</version>
+	<version>0.0.1-M2-SNAPSHOT</version>
 	<name>basic-util</name>
 	<description>Basic utilities</description>
 	
