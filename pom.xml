@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>misc-util</artifactId>
 	<version>0.0.1-M2-SNAPSHOT</version>
-	<name>basic-util</name>
+	<name>misc-util</name>
 	<description>Basic utilities</description>
 	<parent>
 		<groupId>com.github.kdvolder</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	
 	<url>https://github.com/kdvolder/basic-util</url>
