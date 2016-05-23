@@ -8,15 +8,15 @@
 	<parent>
 		<groupId>com.github.kdvolder</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.2-SNAPSHOT</version>
+		<version>0.0.2-RELEASE</version>
 	</parent>
 	
 	<url>https://github.com/kdvolder/basic-util</url>
 	
 	<scm>
-		<url>https://github.com/kdvolder/basic-util</url>
-		<connection>scm:git:git://github.com/kdvolder/basic-util.git</connection>
-		<developerConnection>scm:git:git@github.com:kdvolder/basic-util.git</developerConnection>
+		<url>https://github.com/kdvolder/misc-util</url>
+		<connection>scm:git:git://github.com/kdvolder/misc-util.git</connection>
+		<developerConnection>scm:git:git@github.com:kdvolder/misc-util.git</developerConnection>
 	</scm>
 	
 </project>
