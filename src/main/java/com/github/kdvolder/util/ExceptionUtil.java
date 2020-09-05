@@ -18,4 +18,11 @@ public class ExceptionUtil {
 		return msg;
 	}
 
+	public static RuntimeException unchecked(Throwable e) {
+		if (e instanceof RuntimeException) {
+			return (RuntimeException) e;
+		}
+		return new RuntimeException(e);
+	}
+
 }
